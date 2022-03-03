@@ -16,8 +16,6 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /uptime
   name: https://joyckers.github.io
-  
-status-website:
   theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
