@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Joyckers
-    url: https://www.joyckers.com
+    url: https://joyckers.com
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
