@@ -5,12 +5,10 @@ repo: uptime # The name of this repository
 sites:
   - name: Joyckers
     url: https://joyckers.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Cloud
+    url: https://cloud.joyckers.com
+  - name: Content
+    url: https://content.joyckers.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
